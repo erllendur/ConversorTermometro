@@ -54,7 +54,10 @@ section {
     
     
   }
-
+ 
+  .button-group {
+    gap: 200px; /* Espaço entre o campo de entrada e os botões */
+  }
   .button {
     display: flex;
     justify-content: center;
