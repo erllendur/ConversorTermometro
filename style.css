@@ -93,9 +93,10 @@ section {
 
   @media only screen and (max-width: 600px) {
     body::before {
-     background-image: none;
+     background-image: url(imagens/escalas-termometricas1.jpg);
      background-color: yellow;
       z-index: -1;
+      
        }
        @media only screen and (max-width: 600px) {
         .container {
